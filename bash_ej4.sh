@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mayor_menor_igual(){
+function mayor_menor_igual(){
     read -p "Ingresa un numero y verificare si es >,<,= a 0: " n
     if [[ ! $n =~ ^-?[0-9]+$ ]]; then
         echo "ERROR! no es un numero"

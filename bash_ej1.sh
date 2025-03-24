@@ -1,5 +1,5 @@
 #!/bin/bash
-saludar(){
+function saludar(){
     echo 'Ingrese su nombre'
     read nombre
     echo 'Ingrese su apellido'

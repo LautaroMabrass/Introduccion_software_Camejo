@@ -1,6 +1,6 @@
 #!/bin/bash
 
-perimetro_rectangulo(){
+function perimetro_rectangulo(){
     read -p "Ingrese la altura en CM: " altura
     read -p "Ingrese la base en CM: " base
     if [[ ! $altura =~ ^[0-9]+$ || ! $base =~ ^[0-9]+$ ]]; then
