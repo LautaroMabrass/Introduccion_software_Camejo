@@ -1,0 +1,23 @@
+ 
+29 fecha.txt
+73 actual.txt
+99 bash_ej12.sh
+102 concatenados.txt
+114 bash_ej2.sh
+122 README.md
+149 bash_ej9.sh
+159 bash_ej15.sh
+171 bash_ej14.sh
+172 bash_ej1.sh
+190 bash_ej11.sh
+242 bash_ej10.sh
+273 bash_ej13.sh
+283 usuarios_contrasenias.txt
+293 bash_ej6.sh
+313 bash_ej8.sh
+314 bash_ej3.sh
+364 bash_ej4.sh
+394 oraciones.txt
+417 bash_ej7.sh
+500 bash_ej5.sh
+4,0K archivos
